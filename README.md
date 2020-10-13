@@ -1,6 +1,10 @@
 How to Repair your Linux system which has been stock in (initramfs) while booting the system?
 
 
+------------------------------------------------------
+
+
+
 First Step:
 First find out the Hard Drive where the Operating System has been installed. In my case it was on sdc5.
 
